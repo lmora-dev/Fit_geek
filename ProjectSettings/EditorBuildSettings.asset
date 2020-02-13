@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: ca3fad043e6cdf34fa9b98c8bc56fe33
+  - enabled: 1
+    path: Assets/Scenes/Tabata.unity
+    guid: 06520965d870ad6438a352a3045c0726
+  - enabled: 1
+    path: Assets/Scenes/Core.unity
+    guid: 94d93f17af9d1cc4382e0049ba5cbe53
+  - enabled: 1
+    path: Assets/Scenes/Tren sup.unity
+    guid: 272289b11df98e14d9b5967a8b897bae
+  m_configObjects: {}
